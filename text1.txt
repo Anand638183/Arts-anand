@@ -1,1 +1,2 @@
 creatstext1.txtfile 
+hg  gjng s 
